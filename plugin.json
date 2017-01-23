@@ -1,0 +1,23 @@
+{
+    "name": "JsTrackerForceAsync",
+    "description": "Forces the JavaScript Tracker to always load asynchronous when embedding the Tracking Code via HTTP API automatically.",
+    "version": "3.0.0",
+    "theme": false,
+    "require": {
+        "piwik": ">=3.0.0-b1,<4.0.0"
+    },
+    "authors": [
+        {
+            "name": "InnoCraft",
+            "email": "contact@innocraft.com",
+            "homepage": "https://www.innocraft.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/innocraft/plugin-JsTrackerForceAsync/issues",
+        "source": "https://github.com/innocraft/plugin-JsTrackerForceAsync"
+    },
+    "homepage": "https://www.innocraft.com",
+    "license": "GPL v3+",
+    "keywords": ["javascript", "tracker", "async"]
+}
