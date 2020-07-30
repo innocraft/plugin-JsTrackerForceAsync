@@ -13,7 +13,7 @@ class JsTrackerForceAsync extends \Piwik\Plugin
     public function registerEvents()
     {
         return array(
-            'Piwik.getJavascriptCode' => array('function' => 'makePiwikJsLoadSync', 'after' => true),
+            'Tracker.getJavascriptCode' => array('function' => 'makePiwikJsLoadSync', 'after' => true),
         );
     }
 
