@@ -19,5 +19,6 @@
     },
     "homepage": "https://www.innocraft.com",
     "license": "GPL v3+",
-    "keywords": ["javascript", "tracker", "async", "a/b testing", "experiment"]
+    "keywords": ["javascript", "tracker", "async", "a/b testing", "experiment"],
+    "category": "development"
 }
